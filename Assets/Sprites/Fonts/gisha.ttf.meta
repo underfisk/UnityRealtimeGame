@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b962262d7fbdb864686cb12b1094bda7
+timeCreated: 1506066853
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gisha
+  fontNames:
+  - Gisha
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
